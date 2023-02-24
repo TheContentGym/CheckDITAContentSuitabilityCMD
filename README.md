@@ -25,7 +25,7 @@ To run the program:
 3. Run the program and select the folder with your DITA content. 
 
 The program prompts you to select a directory to process. After you select a directory and press OK, the program will walk through the directory tree, process all XML files it finds, and print a report if any non-action `cmd` elements are found.
-![image](https://user-images.githubusercontent.com/67150538/221142992-0c9f189c-fc27-4d4b-a7c2-532896f41408.png)
+![image](https://user-images.githubusercontent.com/67150538/221145769-dbafa6cf-7677-4377-ad08-b8cf3551db5f.png)
 
 
 
