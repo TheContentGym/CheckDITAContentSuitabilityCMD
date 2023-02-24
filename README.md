@@ -1,6 +1,6 @@
 # Detect Non-Action content in `cmd` Elements in all your DITA content
-;
-A technical writer should write only action verb instructions in the cmd elements in the task type topics of DITA, such as: do this ... click this... type in this... The writer is not suppoed to write non-action/conceptual content in the `cmd` elements: this is a good idea... You get the drift?
+
+A technical writer should write only action verb instructions in the cmd elements in the task type topics of DITA, such as: do this ... click this... type in this... The writer is not supposed to write non-action/conceptual content in the `cmd` elements, such as "this is a good idea..." or "This program is important, as it allows you to do abc.." You get the drift?
 
 But some writers (maybe you only) along the way may have written some philisophical thoughts in the `cmd` elements, which don't belong there. Now, what are you supposed to do? Read all the task topics in the docset to find out such content? Nah.
 
