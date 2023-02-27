@@ -1,6 +1,6 @@
 # In  short
 
-Running this program lets you locate unsuitable content in all your DITA content that is incorrectly tagged as steps in tasks. You can run this on the local copy of your DITA repository and do not have to read through all the steps in your content for QA.
+Running this program lets you locate unsuitable content in all your DITA content that is incorrectly tagged as `steps` in tasks. You can run this on the local copy of your DITA repository and do not have to read through all the steps in your content for QA.
 
 # Detect Non-Action content in `cmd` Elements in all your DITA content
 
