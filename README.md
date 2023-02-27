@@ -1,6 +1,7 @@
 # In  short
 
-Running this program lets you locate concept/reference content that is incorrectly tagged as steps in tasks. You can run this on the local copy of your DITA repository and do not have to read through all the steps in your content for QA.
+Running this program lets you locate unsuitable content in all your DITA content that is incorrectly tagged as steps in tasks. You can run this on the local copy of your DITA repository and do not have to read through all the steps in your content for QA.
+
 # Detect Non-Action content in `cmd` Elements in all your DITA content
 
 A technical writer should write only action verb instructions in the cmd elements in the task type topics of DITA, such as: do this ... click this... type in this... The writer is not supposed to write non-action/conceptual content in the `cmd` elements, such as "this is a good idea..." or "This program is important, as it allows you to do abc.." You get the drift?
